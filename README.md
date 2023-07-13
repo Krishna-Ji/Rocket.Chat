@@ -43,7 +43,7 @@ Free for 30 days. Afterward, choose between continuing to host on our secure clo
 
 [Start your cloud hosted trial now](https://rocket.chat/trial-saas)
 
-# 🛠️ Local development
+# 🛠️ Local development Guide
 
 ##  Prerequisites
 
